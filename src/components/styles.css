@@ -1,0 +1,22 @@
+.inputStyle {
+    width: 500px;
+    height: 40px;
+    background-color: rgb(220, 220, 220);
+}
+
+.inputDiv {
+    display: flex;
+    flex-direction: column;
+}
+
+.btnStyle {
+    background-color: rgb(99, 126, 205);
+    border-radius: 2px, solid;
+    height: 30px;
+    width: 75px;
+    margin-top: 10px;
+}
+
+.validation {
+    color: red;
+}
